@@ -1,0 +1,9 @@
+.w {
+    width: 1200px;
+    height: 0 auto;
+}
+
+header {
+    height: 84px;
+    border-bottom: 2px solid #c81523;
+}
